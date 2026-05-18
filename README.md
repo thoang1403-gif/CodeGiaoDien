@@ -1,2 +1,2 @@
 # CodeGiaoDien
-Quá trình học code giao diện phần cứng bằng Python và Qt5n nguồn tại liệu từ TS.Lý Hoàng Hiệp
+Quá trình học code giao diện phần cứng bằng Python và Qt5n nguồn tại liệu từ TS.Lý Hoàng Hiệp, tuy nhiên theo anh Vương thì code bằng python khá là nặng chương trình chậm và không tối ưu, do đó ta sẽ chuyển qua code giao diện bằng C++ và C cho chương trình tối ưu hơn, dùng để code giao diện cho phần cứng thì ta sử dụng tài liệu của [`Microsoft`](https://learn.microsoft.com/en-us/windows/win32/learnwin32/learn-to-program-for-windows).
