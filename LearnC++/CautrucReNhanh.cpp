@@ -20,4 +20,26 @@ int main(){
     if (100> 50){
         cout << "Xin Chao \n";
     }
+    if(200 % 2 == 0){
+        cout << "Ky Su Ngao Da !" << a << endl;
+    }
+/*
+if-else
+if(condition){
+    block of code if condition is true
+}
+else{
+    block of code if condition is false
+}
+*/
+int m;
+cin >> m;
+if(m % 2 == 0){
+    cout << "So chan";
+}
+else
+{
+cout << "So le";
+}
+    return 0;
 }
